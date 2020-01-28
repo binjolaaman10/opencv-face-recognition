@@ -16,7 +16,9 @@ The haarcascade files have been downloaded from [here](https://github.com/opencv
 Both image files have been downloaded from [Pexels](https://www.pexels.com/).
 
 **Artist:**
+
 sample-image1 is by [Marcelo Chagas](https://www.pexels.com/@marcelo-chagas-861665)
+
 sample-image2 is by [Ash Valiente](https://www.pexels.com/@ash-valiente-1680519)
 
 ## What can this program do?
